@@ -42,3 +42,7 @@
     border-radius: 8px;
     box-shadow: 0.5rem 1rem 3rem hsl(0, 0%, 0%, 0.3);
   }
+
+.small-paragraph{
+    font-size: 12px;
+}
